@@ -1,5 +1,5 @@
 # ML_basics
-Welcome to my personal repository where I've been practicing fundamental machine learning techniques. These Jupyter Notebook files contain implementations of various algorithms that I've learned. They are implemented in a simple and easy-to-understand manner, reflecting my learning journey in machine learning.Feel free to explore and learn alongside me! If you have any questions or suggestions, feel free to reach out. 
+Welcome to my personal repository where I've been practicing fundamental machine learning techniques. These  files contain implementations of various algorithms that I've learned. They are implemented in a simple and easy-to-understand manner, reflecting my learning journey in machine learning.Feel free to explore and learn alongside me! If you have any questions or suggestions, feel free to reach out. 
 
 Contents of this repositary are:
 
